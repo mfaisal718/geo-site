@@ -1,0 +1,22 @@
+.row {
+    display: flex;
+}
+.column {
+    flex: 50%;
+}
+.row2 {
+    display: flex;
+}
+.column2 {
+    flex: 33%
+}
+.header {
+    background-color: black;
+    color: aqua;
+    position: relative;
+    text-align: center;
+}
+.back {
+    background-image: url("https://imgur.com/yhlx1JG");
+    background-color: aqua;
+}

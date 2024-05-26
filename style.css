@@ -23,3 +23,6 @@
 .links {
     background-color: aquamarine;
 }
+.game {
+    flex: 60%;
+}

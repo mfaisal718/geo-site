@@ -2,7 +2,7 @@
     display: flex;
 }
 .column {
-    flex: 34%;
+    flex: 30%;
 }
 .row2 {
     display: flex;
